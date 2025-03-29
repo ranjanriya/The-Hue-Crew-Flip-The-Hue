@@ -36,11 +36,7 @@ Navigate tricky levels using your ability to switch the background color in real
 
 `docs/Hue Crew - Game Design Document.pdf`
 
-Or [click here to open it directly](https://github.com/CSCI-526/csci526-fall24-friday-main-hue-crew/blob/main/docs/Hue%20Crew%20-%20Game%20Design%20Document.pdf)
-
-## 📦 Repository
-
-- Source Code: [GitHub Repository](https://github.com/CSCI-526/csci526-fall24-friday-main-hue-crew)
+Or [click here to open it directly](https://github.com/ranjanriya/csci526-fall24-friday-main-hue-crew/blob/main/docs/Hue%20Crew%20-%20Game%20Design%20Document.pdf)
 
 ## 👥 Team Hue Crew
 
