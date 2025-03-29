@@ -1,6 +1,8 @@
 # 🎮 Hue Crew: Flip the Hue
 
-**Hue Crew: Flip the Hue** is a 2D platformer-puzzle game where you flip between black and white backgrounds to reveal or hide obstacles and solve mind-bending platforming challenges. The twist? The world changes based on the background you choose — and so does your path to the goal.
+**Hue Crew: Flip the Hue** is a 2D platformer-puzzle game where you flip between black and white backgrounds to reveal or hide obstacles and solve mind-bending platforming challenges. The twist? The world changes based on your chosen background — and so does your path to the goal.
+
+> 🏫 This project was developed as part of **CSCI 526: Advanced Mobile Devices and Game Consoles** at the **University of Southern California (USC)** during **Fall 2024**, taught by [Professor Scott John Easley](https://viterbi.usc.edu/directory/faculty/Easley/Scott).
 
 ## 🧠 Game Concept
 
@@ -11,7 +13,7 @@ Navigate tricky levels using your ability to switch the background color in real
 - 🎨 **Color-Switching Mechanic** – Flip between black and white to toggle visibility of obstacles and traps.
 - ⚡ **Dash Ability** – Quickly burst forward to cross wide gaps or dodge traps.
 - 🧗 **Platforming Puzzles** – Layers of platforms, hidden paths, and moving traps demand strategy and reflexes.
-- 🔁 **Checkpoint System** – Respawn at the last activated checkpoint after a mistake.
+- 🔁 **Checkpoint System** – Respawn after a mistake at the last activated checkpoint.
 - 📊 **Analytics Tracking** – Gameplay metrics like deaths, dashes, and flips are logged and visualized using Firebase + Python.
 - 🖥️ **Web-Based Build** – No downloads! Play directly in your browser.
 
