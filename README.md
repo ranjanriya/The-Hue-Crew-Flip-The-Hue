@@ -6,16 +6,23 @@
 
 Use quick reflexes and strategic thinking to overcome hidden paths, color-based traps, and progressively complex platforming puzzles.
 
-- 🎨 Switch between black and white backgrounds to manipulate which obstacles are active.
-- 🕹️ Move, jump, and dash through intricate levels.
-- 🚩 Reach the final flag in each level while avoiding traps and mastering the environment.
+## 🧩 Features
+
+- 🎨 **Color-Switching Mechanic** – Toggle between black and white backgrounds to control which obstacles appear or disappear.
+- 💣 **Trap Avoidance** – Navigate through color-sensitive traps that respawn you at the last checkpoint.
+- 🧗 **Platforming Puzzles** – Strategically jump, dash, and switch colors to solve layered platform challenges.
+- ⚡ **Dash Mechanic** – Perform short bursts to cross gaps or evade hazards.
+- 🧠 **Progressive Level Design** – Each level introduces new mechanics and increases in difficulty.
+- 🔁 **Checkpoints** – Auto-respawn at the last activated checkpoint after hitting a trap.
+- 🧪 **Analytics Integration** – Collect gameplay metrics (deaths, flips, dashes, etc.) using Firebase and visualize with Python.
+- 🖥️ **Fully Playable WebGL Builds** – No installation needed; runs directly in the browser.
 
 ## 🛠️ Built With
 
 - Unity (WebGL Build)
 - C#
-- Firebase (for analytics)
-- GitHub Pages (for hosting builds)
+- Firebase
+- GitHub Pages
 
 ## 🎮 Controls
 
@@ -37,7 +44,7 @@ Use quick reflexes and strategic thinking to overcome hidden paths, color-based 
 | **Gold Progress Check** | [Play Gold Progress](https://csci-526.github.io/csci526-fall24-friday-main-hue-crew/Gold_Test/) |
 | **🟨 Final Gold Build** | ✅ [Play Final Game](https://csci-526.github.io/csci526-fall24-friday-main-hue-crew/Gold_Build/) |
 
-> 💡 The **Gold Build** is the final and complete version of the game.
+> 🟨 **To play the final version of the game, click here → [Play Final Gold Build](https://csci-526.github.io/csci526-fall24-friday-main-hue-crew/Gold_Build/)** 🎉
 
 ## 📽️ Gameplay Videos
 
@@ -51,7 +58,7 @@ All gameplay data is collected using Firebase and visualized using Python with m
 
 ## 📦 Repository
 
-- Unity Project: [GitHub Link](https://github.com/CSCI-526/csci526-fall24-friday-main-hue-crew)
+- Unity Project: [GitHub Repository](https://github.com/CSCI-526/csci526-fall24-friday-main-hue-crew)
 
 ## 👥 Team Hue Crew
 
@@ -59,7 +66,7 @@ All gameplay data is collected using Firebase and visualized using Python with m
 |------|---------|--------|
 | Andre Lebecki | Team Captain, Gameplay, Analytics | [@alebecki](https://github.com/alebecki) |
 | Tianlan Yang | Product Manager, UI, Gameplay | [@TianlanYang](https://github.com/TianlanYang) |
-| Riya Ranjan | Gameplay, Guidance | [@ranjanriya97](https://github.com/ranjanriya97) |
+| Riya Ranjan | Gameplay, Guidance | [@ranjanriya97](https://github.com/ranjanriya) |
 | Siddhi Singh | Gameplay, Physics | [@SiddhiSingh28](https://github.com/SiddhiSingh28) |
 | Shih-Ju Hsu | Gameplay, UI, Analytics | [@hsj562](https://github.com/hsj562) |
 | Khushi Naik | Physics, Gameplay | [@NaikKhushi21](https://github.com/NaikKhushi21) |
