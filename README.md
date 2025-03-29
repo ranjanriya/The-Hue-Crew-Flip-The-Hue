@@ -44,12 +44,12 @@ Or [click here to open it directly](https://github.com/ranjanriya/csci526-fall24
 
 | Name | Role(s) | GitHub |
 |------|---------|--------|
-| Andre Lebecki | Team Captain, Gameplay, Analytics | [@alebecki](https://github.com/alebecki) |
-| Tianlan Yang | Product Manager, UI, Gameplay | [@TianlanYang](https://github.com/TianlanYang) |
-| Riya Ranjan | Gameplay, Physics, Guidance | [@ranjanriya](https://github.com/ranjanriya) |
-| Siddhi Singh | Gameplay, Physics | [@SiddhiSingh28](https://github.com/SiddhiSingh28) |
-| Shih-Ju Hsu | Gameplay, UI, Analytics | [@hsj562](https://github.com/hsj562) |
-| Khushi Naik | Physics, Gameplay | [@NaikKhushi21](https://github.com/NaikKhushi21) |
+| Andre Lebecki | Team Captain, Gameplay, Analytics | 
+| Tianlan Yang | Product Manager, UI, Gameplay | 
+| Riya Ranjan | Gameplay, Physics, Guidance |
+| Siddhi Singh | Gameplay, Physics | 
+| Shih-Ju Hsu | Gameplay, UI, Analytics |
+| Khushi Naik | Physics, Gameplay | 
 
 ---
 
