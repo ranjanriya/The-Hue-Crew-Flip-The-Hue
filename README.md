@@ -42,8 +42,8 @@ Or [click here to open it directly](https://github.com/ranjanriya/csci526-fall24
 
 ## 👥 Team Hue Crew
 
-| Name | Role(s) | GitHub |
-|------|---------|--------|
+| Name | Role(s) | 
+|------|---------|
 | Andre Lebecki | Team Captain, Gameplay, Analytics | 
 | Tianlan Yang | Product Manager, UI, Gameplay | 
 | Riya Ranjan | Gameplay, Physics, Guidance |
